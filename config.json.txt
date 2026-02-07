@@ -5,7 +5,7 @@
         "24174303263@s.whatsapp.net",
         "24174303263@s.whatsapp.net"
       ],
-      "tagAudioPath": "database/DigiX.mp3",
+      "tagAudioPath": "database/karma Akabane.mp3",
       "antilink": true,
       "response": true,
       "autoreact": false,
